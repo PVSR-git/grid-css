@@ -142,9 +142,7 @@
     border: 2px solid #a775f1;
   }
 
-  /* .grid-col-span-2{
-    grid-column: span 2;
-  } */
+
 
   .testimonial-grid{
     display: grid;
@@ -177,12 +175,7 @@
   .testimonial:nth-child(3){
     background-color: aqua !important;
   }
-  .testimonial:last-child{
-    /* grid-column-start: 4; */
-     /* grid-row-start: 1; 
-     grid-row-end: span 2; */
-     /* grid-row: 1 / span 2; */
-  }
+
   .testimonial.quote {
     background-image: url("./images/bg-pattern-quotation.svg");
     background-repeat: no-repeat;
